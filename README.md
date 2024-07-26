@@ -4,7 +4,7 @@
 
 ![Josi014 GitHub stats](https://github-readme-stats.vercel.app/api?username=Josi014&show_icons=true&theme=dracula)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Josi014)](https://github.com/Josi014/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Josi014&size_weight=0.5&count_weight=0.5)
 
 ## Tecnologias
 <div style="display: inline_block"><br/>
