@@ -19,4 +19,4 @@ Apaixonada pelo mundo da programação, e sempre em busca de novos aprendizados 
 
 ## Cursando 2° semestre de Ciência da computação IFSUL
 
-![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Josi014/Josi014/blob/output/github-contribution-grid-snake.svg)
