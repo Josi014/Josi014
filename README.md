@@ -17,5 +17,5 @@
 </div><br/>
 Apaixonada pelo mundo da programação, e sempre em busca de novos aprendizados na área. Tenho por meta facilitar vidas através da tecnologia.
 
-## Cursando 2° semestre de Ciência da computação IFSUL
+## Cursando 3° semestre de Ciência da computação IFSUL
 
