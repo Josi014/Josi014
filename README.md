@@ -17,7 +17,7 @@
 </div><br/>
 Apaixonada pelo mundo da programação, e sempre em busca de novos aprendizados na área. Tenho por meta facilitar vidas através da tecnologia.
 
-## Cursando 2° semestre de Ciência da computação IFSUL
+## Cursando Ciência da computação IFSUL
 
 ![Snake animation](https://raw.githubusercontent.com/Josi014/Josi014/output/github-contribution-grid-snake.svg)
 
