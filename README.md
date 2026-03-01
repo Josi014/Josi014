@@ -4,7 +4,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josieli-de-souza-de-ramos-dev)
 
 ## Estatísticas
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Josi014&layout=compact&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Josi014&layout=compact&theme=dracula&cache_seconds=1800)
 
 ## Tecnologias
 <div style="display: inline_block"><br/>
